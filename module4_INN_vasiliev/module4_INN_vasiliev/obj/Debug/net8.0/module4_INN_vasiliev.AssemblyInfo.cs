@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("module4_INN_vasiliev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f78db19e8f949abad52ef21054d45c9069aba6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("module4_INN_vasiliev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("module4_INN_vasiliev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
